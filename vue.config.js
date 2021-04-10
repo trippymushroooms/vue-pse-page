@@ -1,3 +1,3 @@
-module.exports = {
-    publicPath : '/vue-pse-page/'
-  }
+// module.exports = {
+//     publicPath : '/vue-pse-page/'
+//   }

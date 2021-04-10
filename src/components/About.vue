@@ -84,6 +84,8 @@
         <mdb-btn color="indigo" size="md" class="waves-light ">Read more</mdb-btn>
       </mdb-col>
     </mdb-row>
+    <br>
+    <br>
   </mdb-container>
 </template>
 <script>
@@ -94,7 +96,6 @@
       mdbContainer,
       mdbRow,
       mdbCol,
-     
       mdbMask,
       mdbIcon,
       mdbView,
