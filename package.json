@@ -3,16 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "deploy": "node scripts/gh-pages-deploy.js",
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
     "start": "vue-cli-service serve --open"
-    
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "execa": "latest",
+  
     "mdbvue": "6.7.2",
     "vue": "^2.6.11",
     "vue-router": "^3.5.1"
